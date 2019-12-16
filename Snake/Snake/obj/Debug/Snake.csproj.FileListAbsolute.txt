@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\PP2 projects\Programming-Principles-2-KBTU\Week 6\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Admin\Desktop\PP2 projects\Programming-Principles-2-KBTU\Week 6\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Admin\Desktop\PP2 projects\Programming-Principles-2-KBTU\Week 6\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Admin\Desktop\PP2 projects\Programming-Principles-2-KBTU\Week 6\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Admin\Desktop\PP2 projects\Programming-Principles-2-KBTU\Week 6\Snake\Snake\obj\Debug\Snake.pdb
